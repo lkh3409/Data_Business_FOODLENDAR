@@ -3,6 +3,7 @@
 
 다양한 농식품들의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스
 
+
 # 1. 연구 배경
  ![image](https://github.com/khuda-5th/Data_Business_FOODLENDAR/assets/127953992/9d531989-3676-423c-9d22-714dd025d108)
 
